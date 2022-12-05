@@ -1,0 +1,6 @@
+1.1 
+Point est le nom de la classe 
+requetes -> déclaration des variables
+commandes -> methodes
+constructeur -> builder d'objet Point
+
